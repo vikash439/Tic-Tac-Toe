@@ -20,7 +20,7 @@ Welcome to Tic Tac Toe! 🎉 This is a simple implementation of the classic game
    
    Click on the image to play -  
    
-[![Tic Tac Toe Web Game](background.jpg)](https://vikash439.github.io/Tic-Tac-Toe/)
+[![Tic Tac Toe Web Game](preview.png)](https://vikash439.github.io/Tic-Tac-Toe/)
 
 3. **Open the game:** Navigate to the project directory and open the `index.html` file in your preferred web browser. 🌐
 
@@ -34,5 +34,5 @@ Welcome to Tic Tac Toe! 🎉 This is a simple implementation of the classic game
 
 ## Credits
 
-This project is created and maintained by [Vikash Kumar]. Feel free to reach out with any questions or feedback. 🙋‍♂️
+This project is created and maintained by Vikash Kumar. Feel free to reach out with any questions or feedback. 🙋‍♂️
 
